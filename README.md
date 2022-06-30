@@ -12,7 +12,7 @@ As a user, I want to be able to take a quiz where I am prompted with questions a
 ## Deployment:
 GitHub Repo: https://github.com/mbutlertechtraining/Marios_Workday_Scheduler.git
 
-GitHub Pages: https://mbutlertechtraining.github.io/webapichallenge/
+GitHub Pages: https://github.com/mbutlertechtraining/Marios_Workday_Scheduler.git
 
 ![picture](image.png)
 
