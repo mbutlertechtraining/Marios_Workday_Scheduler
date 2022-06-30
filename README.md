@@ -1,4 +1,4 @@
-# quiz_taker  
+# Workday Scheduler 
  
 ## Table Of Contents:
 - [Description](#Description)
