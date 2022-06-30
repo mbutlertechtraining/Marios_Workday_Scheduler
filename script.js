@@ -7,7 +7,7 @@ $(document).ready(function(){
         function hourUpdater(){
             let currentHour=moment().hours();
             $(".time-block").each(function(){
-                let blockHour=parseInt($(this).attr("id").split(" - ")[1])
+                let blockHour=parseInt($(this).attr("id").split("-")[1])
                 if(blockHour<currentHour){
                     $(this).addClass("past");
                 }
